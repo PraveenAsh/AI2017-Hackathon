@@ -1,7 +1,7 @@
 # AI2017 Hackathon
 
 
-Using the PASCAL VOC2010 dataset, build a classifier. We will build the classifier to classify 20 across classes using Keras, CNN based models.Perform detecting object localization : predict bounding box for each image.
+Using the PASCAL VOC2010 dataset, build a classifier. We built a classifier to classify 20 across classes using Keras, CNN based models.Perform detecting object localization : predict bounding box for each image.
 
 
 **Download the dataset from:**
