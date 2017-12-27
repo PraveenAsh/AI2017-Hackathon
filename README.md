@@ -7,7 +7,7 @@ Using the PASCAL VOC2010 dataset, build a classifier. We built a classifier to c
 **Download the dataset from:**
 >Link 1 : [dataset](https://drive.google.com/open?id=1K2CuUPANucTAvTX_f7Qg7eN8kqBCA9oZ)
 >
->Link 2 : [dataset](https://drive.google.com/open?id=1XNX2oqoJqa6wJAAhcetPOM6du9MT38r)
+>Link 2 : [dataset](https://drive.google.com/file/d/1XNX_2oqoJqa6wJAAhcetPOM6du9MT38r)
 >
 >This dataset is a part of a publicly hosted contest VOC2010 challenge. Please visit http://host.robots.ox.ac.uk/pascal/VOC/voc2010/ for
 complete description of the different competition tasks and description of data.
