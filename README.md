@@ -24,3 +24,22 @@ Perform any image preprocessing, convert these to a uniform size.
 Tune it and keep improving towards the best score.
 Start with small size of dataset and gradually increase. Note that the training time for a complex CNN may take a few hours even on a high end machine. Use GPU based machines wherever you can. You should have installed TensorFlow GPU version and also CUDA libraries for GPU.
 Measure the accuracy, precision, recall for each of the classifiers (20 classes) and report. Remove the top layers and replace them with a 20 layer Softmax. Please refer [keras] (https://keras.io/applications/).
+
+
+Results of the classification alongwith bounding box:
+
+**Result 1:**
+
+![](https://image.ibb.co/eecwHG/2007_000272.jpg)
+
+**Result 2:**
+
+![](https://image.ibb.co/g4SwHG/2008_006623.jpg)
+
+**Result 3:**
+
+![](https://image.ibb.co/jLRCrb/2008_006637.jpg)
+
+**Result 4:**
+
+![](https://image.ibb.co/nfASPw/2010_006535.jpg)
